@@ -5,5 +5,6 @@ public class Main{
         System.out.println(game.scoreGuess("i"));
         System.out.println(game.scoreGuess("iss"));
         System.out.println(game.scoreGuess("issipp"));
+        System.out.println(game.scoreGuess("mississippi"));
     }
 }
